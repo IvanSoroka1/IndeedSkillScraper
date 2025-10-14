@@ -1,0 +1,2 @@
+Scrapes jobs on Indeed to see the most in-demand skills that employers are looking for. It functions as a Firefox extension that communicates with a backend that is written in Flask. The backend takes the data generated from the extension and stores it in an Excel file.
+There is another Python file that takes the data from the Excel spreadsheet and outputs the most in-demand skills in another workbook.
